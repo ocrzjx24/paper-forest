@@ -1,3 +1,4 @@
+// star spin effect
 document.querySelectorAll(".linkout:not(.wip)").forEach(linkout => {
     const star = linkout.querySelector(".star");
     let angle = 0, speed = 0, target = 0, raf;
@@ -13,3 +14,4 @@ document.querySelectorAll(".linkout:not(.wip)").forEach(linkout => {
     linkout.addEventListener("pointerenter", () => go(1));
     linkout.addEventListener("pointerleave", () => go(0));
 });
+

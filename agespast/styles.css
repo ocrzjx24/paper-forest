@@ -1,0 +1,109 @@
+* { box-sizing: border-box; }
+
+:root { --blue: #2f3f5d; --white: #dfe4eb; }
+
+body {
+    --ink: var(--blue);
+    margin: 0;
+    background: var(--white);
+    font-family: 'EB Garamond', serif;
+    transition: background 0.6s;
+
+    &.dark { --ink: var(--white); background: var(--blue); }
+}
+
+main { width: 90%; max-width: 680px; margin: 8rem auto; }
+
+.phase1, .phase2 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.7;
+    text-align: center;
+}
+
+.phase1 { color: var(--blue); }
+.phase2 { color: var(--white); }
+
+.top-nav {
+    position: fixed;
+    top: 25px;
+    left: 30px;
+    right: 30px;
+    display: flex;
+    gap: 20px;
+
+    > * {
+        background: none;
+        border: 0;
+        padding: 0;
+        color: var(--ink);
+        font: 11px 'Space Mono', monospace;
+        letter-spacing: 0.04em;
+        text-decoration: none;
+        cursor: pointer;
+        transition: color 0.6s, opacity 0.2s;
+
+        &:hover { opacity: 0.55; }
+    }
+
+    a { margin-right: auto; }
+}
+
+/* carousel */
+.image-page {
+    max-width: 1100px;
+    min-height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-carousel {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+
+    img { display: block; width: min(80%, 75vh); aspect-ratio: 1; object-fit: cover; }
+}
+
+.carousel-arrow {
+    padding: 10px;
+    background: none;
+    border: 0;
+    color: var(--ink);
+    font: 32px 'EB Garamond', serif;
+    cursor: pointer;
+
+    &:hover { opacity: 0.5; }
+}
+
+#image-counter { margin-top: 20px; color: var(--ink); font: 11px 'Space Mono', monospace; }
+
+/* about */
+dialog {
+    width: calc(100% - 40px);
+    max-width: 500px;
+    padding: 0;
+    border: 0;
+    background: var(--white);
+    color: var(--blue);
+    text-align: left;
+
+    &::backdrop { background: rgb(0 0 0 / 0.65); }
+    article { padding: 55px 45px; }
+    h2 { margin: 0 0 20px; font-size: 28px; font-weight: 500; }
+    p { margin: 0; font-size: 19px; line-height: 1.6; }
+}
+
+@media (max-width: 600px) {
+    main { margin: 6rem auto; }
+    .phase1, .phase2 { font-size: 21px; }
+    .top-nav { top: 15px; left: 15px; right: 15px; gap: 12px; > * { font-size: 9px; } }
+    .image-carousel { gap: 5px; img { width: min(78%, 65vh); } }
+    .carousel-arrow { font-size: 24px; padding: 5px; }
+    dialog article { padding: 45px 25px; }
+}

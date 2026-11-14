@@ -13,36 +13,56 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
 </head>
-<body class = "index-body">
+<body class="index-body">
     <main class="grid-layout">
         <section class="left-side">
-        <a href="../index.html" class="back-link">← back to archive</a>
-        <header class="title-block">
-            <img src="images/jason-fox-blue.png" alt="fox icon" class="logo" />
-            <div>
-            <h1>king of nothing</h1>
-            <p>jason xie</p>
+            <div class="top-links">
+                <a href="../index.html" class="back-link">← back to archive</a>
+                <button class="about-link" id="about-open">+ about</button>
             </div>
-        </header>
-        <img src="images/base.jpg" alt="home image" class="home-image"/>
+
+            <header class="title-block">
+                <img src="images/jason-fox-blue.png" alt="fox icon" class="logo">
+                <div>
+                    <h1>king of nothing</h1>
+                    <p>jason xie</p>
+                </div>
+            </header>
+
+            <img src="images/base.jpg" alt="home image" class="home-image">
         </section>
 
         <section class="right-side">
-        <h2 class="chapter-title">chapters</h2>
-        <ul class="chapter-list">
-            <li><a href="ch1.html"><span class="chapter-num">[0]</span> before i was born</a></li>
-            <li><a href="ch2.html"><span class="chapter-num">[1]</span> bellingham square</a></li>
-            <li><a href="ch3.html"><span class="chapter-num">[2]</span> sandstone</a></li>
-            <li><a href="ch4.html"><span class="chapter-num">[3]</span> brother</a></li>
-            <li><a href="ch5.html"><span class="chapter-num">[4]</span> page from a traveler's notebook</a></li>
-            <li><a href="ch6.html"><span class="chapter-num">[5]</span> mulberry jam</a></li>
-            <li><a href="ch7.html"><span class="chapter-num">[6]</span> kyle talk interlude</a></li>
-            <li><a href="ch8.html"><span class="chapter-num">[7]</span> pictures</a></li>
-            <li><a href="ch9.html"><span class="chapter-num">[8]</span> after i was dead</a></li>
-            <li><a href="ch10.html"><span class="chapter-num">[9]</span> thank you</a></li>
-        </ul>
-        <footer class="footer-line">QED I have lived. <span class="dot"></span></footer>
+            <h2 class="chapter-title">chapters</h2>
+            <ul class="chapter-list">
+                <li><a href="ch1.html"><span class="chapter-num">[0]</span> before i was born</a></li>
+                <li><a href="ch2.html"><span class="chapter-num">[1]</span> bellingham square</a></li>
+                <li><a href="ch3.html"><span class="chapter-num">[2]</span> sandstone</a></li>
+                <li><a href="ch4.html"><span class="chapter-num">[3]</span> brother</a></li>
+                <li><a href="ch5.html"><span class="chapter-num">[4]</span> page from a traveler's notebook</a></li>
+                <li><a href="ch6.html"><span class="chapter-num">[5]</span> mulberry jam</a></li>
+                <li><a href="ch7.html"><span class="chapter-num">[6]</span> kyle talk interlude</a></li>
+                <li><a href="ch8.html"><span class="chapter-num">[7]</span> pictures</a></li>
+                <li><a href="ch9.html"><span class="chapter-num">[8]</span> after i was dead</a></li>
+                <li><a href="ch10.html"><span class="chapter-num">[9]</span> thank you</a></li>
+            </ul>
+            <footer class="footer-line">QED I have lived. <span class="dot"></span></footer>
         </section>
     </main>
+
+    <dialog id="about">
+        <div>
+            <h2>about</h2>
+            <p>"king of nothing" was created for a project during my time at UC Davis. A lot of these pieces were written very last-minute at first, and I recall even submitting the project a couple hours late, haha... but I eventually went back and refined everything, and here we are.<br><br>
+            I wanted to write something that highlighted themes of warped nostalgia, personal growth, and living in the present, using different writing styles to reach into different corners of all those ideas. Big thanks to Rahul and Cambria for writing two of the pieces for me (respectively, "page from a traveler's notebook" and "pictures"), to Kyle for lending his voice (kinda), and to Professor Daria Taback for leading such a fun class.</p>
+        </div>
+    </dialog>
+
+    <!-- tiny script for about btn -->
+    <script>
+        const about = document.getElementById("about");
+        document.getElementById("about-open").onclick = () => about.showModal();
+        about.onclick = e => e.target === about && about.close();
+    </script>
 </body>
 </html>
