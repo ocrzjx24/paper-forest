@@ -18,7 +18,7 @@
         const toImages = $("image-version").hidden;
         $("text-version").hidden = toImages;
         $("image-version").hidden = !toImages;
-        e.target.textContent = toImages ? "view text version ↗" : "view illustrated version ↗";
+        e.target.textContent = toImages ? "view text ↗" : "view gallery ↗";
         scrollTo({ top: 0, behavior: "smooth" });
         updateTheme();
     });
