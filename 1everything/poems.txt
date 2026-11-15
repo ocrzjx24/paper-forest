@@ -79,7 +79,7 @@ Caelus eventually broke the silence. "We ought to get moving again soon."
 
 Laine smiled. "I'm not opposed to a little rest."
 
-Caelus considered this for a moment, then nodded. He looked out across the river. He and his companions had traveled this beautiful world. Did they once stop to admire it?
+Caelus considered this for a moment, then nodded.
 ===
 title: brother
 set: king of nothing
@@ -131,7 +131,7 @@ And 'cause the mulberries were too sweet on their own, we'd combine them with th
 
 I don't know if we ever got it right. But there's a charm to that. Isn't there?
 
----
+> THERE IS
 
 It was always a little uneven. Stems still floating here and there. [laughs]
 
@@ -139,7 +139,7 @@ Probably wasn't the best-tasting thing in the world, but we made do with what he
 
 I remember my allergies were killing me. The weather was great, but I was sneezing, like, every minute. My mom would just hand me the berry picker and tell me to stop making a big deal.
 
----
+> HOW WAS IT?
 
 Besides the sneezing? Great.
 
@@ -151,6 +151,8 @@ And the jam, it wasn't perfect... but it was ours. Maybe we could find a home in
 [sneezes]
 [sneezes]
 Agh.
+
+> BLESS YOU
 ===
 title: kyle talk interlude
 set: king of nothing
