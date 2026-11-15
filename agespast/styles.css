@@ -6,7 +6,7 @@ body {
     --ink: var(--blue);
     margin: 0;
     background: var(--white);
-    font-family: 'EB Garamond', serif;
+    font-family: 'Instrument Serif', serif;
     transition: background 0.6s;
 
     &.dark { --ink: var(--white); background: var(--blue); }

@@ -1,0 +1,77 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root { --rows: 20; } /* poems per column */
+
+body {
+    padding: 80px 40px;
+    background: #fff;
+    color: #000;
+    font-family: "EB Garamond", serif;
+}
+
+button {
+    border: 0;
+    background: none;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+}
+
+.back {
+    position: fixed;
+    top: 25px;
+    left: 30px;
+    color: #000;
+    font-size: 14px;
+    text-decoration: none;
+
+    &:hover { opacity: 0.55; }
+}
+
+main { max-width: 1100px; margin: 0 auto; }
+
+h1 { margin-bottom: 48px; font-size: 32px; font-weight: 400; }
+
+/* fill col top-down, then make a new one when full */
+#library {
+    display: grid;
+    grid-template-rows: repeat(var(--rows), auto);
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    column-gap: 60px;
+    padding-bottom: 16px;
+    list-style: none;
+    overflow-x: auto;
+}
+
+li { padding: 3px 0; }
+
+.title { font-size: 17px; text-align: left; white-space: nowrap; }
+.title:hover { text-decoration: underline; }
+
+.set { color: #999; font-size: 14px; }
+
+/* poem popup */
+dialog {
+    width: calc(100% - 40px);
+    max-width: 560px;
+    max-height: 85vh;
+    margin: auto;
+    padding: 48px 40px;
+    border: 1px solid #000;
+    background: #fff;
+    color: #000;
+
+    &::backdrop { background: rgb(0 0 0 / 0.5); }
+
+    h2 { margin-bottom: 28px; font-size: 28px; font-weight: 600; }
+    .body { font-size: 20px; line-height: 1.6; white-space: pre-wrap; }
+}
+
+.close { position: absolute; top: 14px; right: 18px; font-size: 14px; opacity: 0.6; }
+.close:hover { opacity: 1; }
+
+@media (max-width: 600px) {
+    body { padding: 70px 24px; }
+    dialog { padding: 44px 24px; }
+}

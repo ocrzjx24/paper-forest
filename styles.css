@@ -35,11 +35,17 @@ h1 { font: 32px "EB Garamond", serif; }
     line-height: 1;
 }
 
-.wip {
+.allclass {
     color: #526bff;
-    cursor: default;
 
     small { color: #aab3ff; }
+}
+
+.wip {
+    color: #999;
+    cursor: default;
+
+    small { color: #ccc; }
 }
 
 @media (max-width: 650px) {
