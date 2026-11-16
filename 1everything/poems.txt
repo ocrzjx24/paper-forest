@@ -209,6 +209,20 @@ It returned me to the void. The only one willing to accept.
 
 This dream had yet to end. The next is waiting to begin.
 ===
+title: smoke
+set:
+info: update later
+---
+lost between the aisles of revulsion
+thinking the haze meant something
+i felt my breath catch, as
+it wrote your name in reverse
+
+shapes, voices in the smoke
+i was tempted to understand
+i cursed myself, i ran away into the fumes
+just to trip over my own footprints
+===
 title: ages past (i)
 set: ages past
 info: update later
@@ -301,6 +315,19 @@ in the lullabies
 that you write 
 
 the comfort i seek,
-the fellow feeling,
+a fellow feeling,
 is what i find
 when i'm by your side
+===
+title: An Estival Walk
+set:
+info: update later
+---
+There are concrete paths that form
+the hem of this town. Cuffs and collars
+that hold a world at arm’s length.
+A horned owl coos,
+the leaves shiver and laugh,
+and the sun shines so beautifully
+(and blinds me, because of
+how low it hangs).
