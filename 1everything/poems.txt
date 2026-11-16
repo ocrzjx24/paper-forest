@@ -55,31 +55,20 @@ title: sandstone
 set: king of nothing
 info: update later
 ---
-Caelus clambered onto the rock, grunting as he pulled himself up. He paused for a moment to catch his breath, the wind tugging gently at his cloak.
-
-He shifted to the side as he heard Laine's boots scrape against the stone. She groaned and flopped down beside him, arms splayed wide.
-
-"If this rock were any higher, I would've died," she muttered, eyes closed.
-
-Caelus chuckled. "Dramatic."
-
-He took in the view that laid before them. A quaint little bridge of golden sandstone, its ancient arches draped in moss and ivy. The river beneath it shimmered in the noonday sun, while verdant trees bowed at the edges, swaying in the wind as if beckoning the band of travelers.
-
-"You folks tired already?"
-
-Caelus and Laine turned to find their third companion jovially munching away on a piece of flatbread.
-
-"Are you not, Yuvo?" Laine retorted. Yuvo shrugged, setting his gargantuan bag of equipment down beside them.
-
-The trio settled into a comfortable silence. A breeze moved through the leaves behind them, carrying with it many a sweet scent. They hadn't known such peaceful respite in a long time. For once, the blades at their sides could remain sheathed, untouched, forgotten.
-
-Caelus eventually broke the silence. "We ought to get moving again soon."
-
-"Yeah. It's nice here, though. And safe," Yuvo added, his voice muffled with bread.
-
-Laine smiled. "I'm not opposed to a little rest."
-
-Caelus considered this for a moment, then nodded.
+⠀⠀⠀Caelen clambered onto the rock, grunting as he pulled himself up. He paused for a moment to catch his breath, the wind tugging gently at his cloak.
+  He shifted to the side as he heard Edel's boots scrape against the stone. She groaned and flopped down stomach-first beside him, arms splayed wide.
+  "If this rock were any higher," she puffed, "I would've died." She rolled onto her back with eyes closed.
+  Caelen chuckled. "Dramatic."
+  He took in the view that laid before them. A quaint little bridge of golden sandstone, its ancient arches draped in moss and ivy. The river beneath it shimmered in the noonday sun, while verdant trees bowed at the edges, swaying in the wind as if greeting the band of travelers. In the distance, silver mountains and cumulus clouds.
+  "You folks tired already?"
+  Caelen and Edel turned to find their third companion jovially munching away on a piece of flatbread.
+  "Of course you're not, Yuvo, you big beast," Edel retorted. Yuvo shrugged, setting his gargantuan bag of equipment down beside them.
+  The trio settled into a comfortable silence. A breeze moved through the leaves behind them, carrying with it many a sweet scent. They hadn't known such peaceful respite in a long time. For once, the blades at their sides could remain sheathed, untouched, forgotten.
+  Caelen eventually broke the silence. "We ought to get moving again soon."
+  "Aye. It's nice here, though. And safe," Yuvo added, his voice muffled with bread.
+  Edel smiled and turned to look at Caelen. "We've been on the move for ages. I'm sure you're not opposed to a little rest, Cay," she said.
+  Caelen considered this for a moment before giving a small nod. He eased himself against a nearby tree, letting his eyes fall shut.
+  "Just for a moment, then."
 ===
 title: brother
 set: king of nothing
@@ -112,8 +101,6 @@ info: update later
 ---
 (written by Rahul)
 
-april 31, 1999
-
 mist makes me think of a more refreshing cold. fog feels unknown. mysterious. where does the dew come from? it glistens like tiny diamonds in the morning sun. does its heritage lie in the dense clusters of fog, or the fleeting breath of mist?
 to me, dew is fog come to rest after a long morning of flitting about. mist may be too feeble to set its roots down on the leaves of trees. fog, however, moves from confusion to certainty. vapor to drop. translucent as a child, then refractive as a parent. mist can never be that. it does not carry the strong emotions of fog or quiet wisdom of dew. mist can only exist as a moment, it cannot transmute. its life cycle is far too short.
 it disappears, leaving behind a cold damp. the dew drop's life cycle continues. relative humidity increases and it fades. slowly, certainly. not into the unknown, but into the unseen. maybe it shall return for another journey. maybe it sets alight on a blade of grass.
@@ -123,29 +110,25 @@ title: mulberry jam
 set: king of nothing
 info: update later
 ---
-[EXCERPT FROM AUDIO LOG #4 - MAY 11, 2045]
+[EXCERPT FROM AUDIO LOG #4, MAY 29 2044]
 
-Mom said these mulberries were nothing like the ones she had as a kid. These were like sweet little caterpillars. The ones in China were more like blackberries.
+妈 said these mulberries were nothing like the ones she had as a kid. These freaked me out, 'cause they kinda looked like caterpillars. [chuckles] Meanwhile, 妈 said the ones in China were more blackberry-esque.
 
-And 'cause the mulberries were too sweet on their own, we'd combine them with these strawberries that we had, strawberries that were too sour, and we'd make jam.
+I remember they were sweet, just like, straight-up sugar. The ones in China supposedly had a tanginess to them. And I remember 妈 would always go on about how Chinese fruits were better, but… well, she always said that, no matter what. [laughs]
 
-I don't know if we ever got it right. But there's a charm to that. Isn't there?
+> WHAT DID YOU DO WITH THEM?
 
-> THERE IS
+We made jam. We had these really sour strawberries lying around, so we just threw those in to help balance out the flavor. It ended up kinda watery, a little too sour. The texture was uneven, too, we had little stems floating around here and there. [laughs]
 
-It was always a little uneven. Stems still floating here and there. [laughs]
+So, definitely not perfect. But we stained our hands and had a good time making it. It was certifiably… ours.
 
-Probably wasn't the best-tasting thing in the world, but we made do with what he had out here. We stained our hands and had a good time making the stuff. Plus, it didn't care where we came from.
+> I SEE
 
-I remember my allergies were killing me. The weather was great, but I was sneezing, like, every minute. My mom would just hand me the berry picker and tell me to stop making a big deal.
+And that day, I remember my allergies were killing me. The weather was great, but I was sneezing, like, every minute. 妈 would just hand me the berry picker and tell me to stop making a big deal. [chuckles]
 
-> HOW WAS IT?
+We saved the best-looking berries, ate the rest right then and there. Eight boxes of mulberries by the end. And I remember thinking, we're picking berries that remind her of home. But it wasn’t an exact… reflection. It was bits and pieces of Cali and China smashed together.
 
-Besides the sneezing? Great.
-
-We saved the best-looking berries, ate the rest right then and there. Eight boxes of mulberries by the end. And I remember thinking, we're picking berries that remind her of home. Not this home, not California. But not exactly China either. It's something else.
-
-And the jam, it wasn't perfect... but it was ours. Maybe we could find a home in it, or something like that. I-
+Just like the jam, I guess. And just like us. And-
 
 [sneezes]
 [sneezes]
@@ -154,16 +137,19 @@ Agh.
 
 > BLESS YOU
 ===
-title: kyle talk interlude
+title: kyle's interlude
 set: king of nothing
 info: update later
 ---
 (written by Kyle)
 
-INCOMING PSYCHOMESSAGE
-
-Listen up brodie. I’m out here, I’m chilling. Just saw an elephant. Sun is shining, birds are chirping. Life’s good, ya heard? I got my safari hat on, I got some random-ass t-shirt on, I’m breathing in some crisp-ass air. "BuT KyLe, wHaT AbOUt tHe MoSQuiToEs, wHaT aBouT-" Man... shutcho bitch ass up! I don't give a fuck! Appreciate the small shits in life. Cuz it's like, end of the day, even when life treats you like dogshit, it can only get better. And if it don’t then, fuck it, that’s life. Whatever. It gets better though, I promise you that much. Or maybe not, don’t take my word for it. But if it does get better… I told ya so. Ya heard? Life is life. Eet eez wat eet eez. Make the most of it.
-I’m gonna keep looking for elephants. Peace.
+Rose bushes in front of my house
+My mother tended and cared for them
+A decade they gazed upon me.
+Beautiful nature, turned mundane
+How many blooms did I witness?
+I stop now, and return their gaze
+I see an attentive bumblebee.
 ===
 title: pictures
 set: king of nothing
